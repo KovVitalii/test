@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Main01 {
-
+// типа что то новое добавил =/
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     while (true) {
