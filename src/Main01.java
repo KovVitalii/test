@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Main01 {
-
+// другой комментарий =/
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     while (true) {
@@ -17,7 +17,7 @@ public class Main01 {
       System.out.println("Вы ввели неправильное число!");
     }
     System.out.println("Цикл окончен! Хорошего дня!");
-
+    System.out.println("new koment");
   }
 
 }
